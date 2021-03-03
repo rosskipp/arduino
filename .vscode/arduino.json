@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "sketches/imu_lcd.ino",
+    "port": "/dev/tty.usbmodem142301"
+}
