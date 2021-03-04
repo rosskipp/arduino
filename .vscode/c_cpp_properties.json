@@ -10,7 +10,9 @@
                 "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/**",
                 "${workspaceFolder}/**"
             ],
-            "defines": [],
+            "defines": [
+                "USBCON"
+            ],
             "macFrameworkPath": [],
             "compilerPath": "/usr/local/bin/gcc-10",
             "cStandard": "gnu17",

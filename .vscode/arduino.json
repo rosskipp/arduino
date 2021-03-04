@@ -1,5 +1,5 @@
 {
     "board": "arduino:avr:uno",
-    "sketch": "sketches/imu_lcd.ino",
-    "port": "/dev/tty.usbmodem142301"
+    "sketch": "sketches/sonar_lcd/sonar_lcd.ino",
+    "port": "/dev/tty.usbmodem142201"
 }
